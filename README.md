@@ -24,22 +24,15 @@ O projeto foi desenvolvido como parte do **3º semestre da faculdade**, mas com 
 ## 📋 Funcionalidades  
 
 ### Módulo de Usuários  
-- Cadastro e autenticação de usuários (noivos, cerimonialistas, convidados).  
-- Criptografia de senhas.  
-- Controle de acesso por perfil.  
+- Cadastro e autenticação de usuários  
 
 ### Planejamento do Evento  
 - Cadastro de eventos (casamentos).  
 - Definição e acompanhamento de orçamento.  
 - Cronograma com atividades e prazos.  
 
-### Fornecedores  
-- Cadastro de fornecedores (buffet, decoração, som, etc).  
-- Associação de fornecedores a serviços contratados.  
-- Alertas de pagamentos e compromissos.  
 
-### Convidados & RSVP  
-- Gerenciamento de convidados.  
+###RSVP   
 - Envio de convites com confirmação online (RSVP).  
 - Status: confirmado, pendente, recusado.  
 
