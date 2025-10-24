@@ -56,8 +56,6 @@ Service → concentra regras de negócio
 Repository → abstrai o acesso ao banco via JPA/Hibernate
 Database → implementa triggers, views e procedures para automação e relatórios
 
-yaml
-Copiar código
 
 Também são aplicados princípios de **Clean Architecture**, **boas práticas de código (SOLID)** e **tratamento de exceções padronizado**.
 
