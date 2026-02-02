@@ -1,4 +1,4 @@
-# 💍 TrueUnion - Sistema de Gestão de Casamentos
+# 💍 TrueUnion - Sistema de Gestão de Casamentos(Academico)
 
 ## 📌 Sobre o Projeto
 O **TrueUnion** é um sistema desenvolvido para auxiliar no **planejamento, organização e execução de casamentos**, centralizando informações de **convidados, fornecedores, orçamento, cronograma, tarefas e relatórios**.
